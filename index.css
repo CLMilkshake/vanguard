@@ -36,6 +36,8 @@ body {
 }
 .middle img {
     margin-left: 80px;
+    margin: auto;
+    width: 100%;
 }
 .middle {
     margin-top: 30px;
